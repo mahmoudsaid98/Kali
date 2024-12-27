@@ -9,8 +9,8 @@
 
 ![image](https://github.com/user-attachments/assets/61580b47-9d74-4394-80ea-ac97513c2b9a)
 
-
-3-(<a href=”#”  oneclick=”alert(‘XSS’)”> OFFERS!!! </a)
+3- 
+![{DA0B731F-B04E-4769-BA3D-CE71858047C3}](https://github.com/user-attachments/assets/b8f7ae13-2b0b-480f-9150-dd48577a4b39)
 ![image](https://github.com/user-attachments/assets/3bd63a29-c1a5-4edf-b64b-1f12cad7397b)
 
 4-The cookie: 
